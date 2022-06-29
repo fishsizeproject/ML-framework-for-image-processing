@@ -6,6 +6,6 @@ Open-source modular framework for large scale image storage, handling, annotatio
 
 We demonstrate the implementation of this framework in an example case study for automatic fish species identification from images taken through a recreational fishing smartphone application. The framework presented here is highly customisable for further advancement and community based image collection and annotation. 
 
-![image](https://user-images.githubusercontent.com/18352019/176228671-f723d61d-e4d1-4a24-8cf3-6e585430fd95.png)
+![Sentiment Python](fig1.png)
 
 Overview of the framework, with the main tools used, consisting of three modules: and six steps. Platforms and specific tools (e.g. Google colab and Google Cloud Platform) indicated here were used in the example application, but could be replaced with other tools, as explained below.
