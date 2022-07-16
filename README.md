@@ -9,3 +9,5 @@ We demonstrate the implementation of this framework in an example case study for
 ![Sentiment Python](fig1.png)
 
 Overview of the framework, with the main tools used, consisting of three modules and six steps. Platforms and specific tools (e.g. Google colab and Google Cloud Platform) indicated here were used in the example application, but could be replaced with other tools.
+
+The preprint of this work can be found [here](https://www.biorxiv.org/content/10.1101/2022.06.29.498112v1.abstract).
