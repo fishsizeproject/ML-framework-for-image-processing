@@ -10,4 +10,6 @@ We demonstrate the implementation of this framework in an example case study for
 
 Overview of the framework, with the main tools used, consisting of three modules and six steps. Platforms and specific tools (e.g. Google colab and Google Cloud Platform) indicated here were used in the example application, but could be replaced with other tools.
 
-The preprint of this work can be found [here](https://www.biorxiv.org/content/10.1101/2022.06.29.498112v1.abstract).
+The publication presenting this work can be found [here](https://www.mdpi.com/2071-1050/14/21/14324).
+
+The study has been supported by the European Regional Development Fund (project No 01.2.2-LMT-K-718-02-0006) under grant agreement with the Research Council of Lithuania (LMTLT).
