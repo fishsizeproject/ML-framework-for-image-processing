@@ -12,4 +12,6 @@ Overview of the framework, with the main tools used, consisting of three modules
 
 The publication presenting this work can be found [here](https://www.mdpi.com/2071-1050/14/21/14324).
 
+A free online course explaining this framework was ran in October, 2022 and all course materials are available on https://fishsizeproject.github.io/Course-MLforImageProcessing
+
 The study has been supported by the European Regional Development Fund (project No 01.2.2-LMT-K-718-02-0006) under grant agreement with the Research Council of Lithuania (LMTLT). The study was also supported by the Pew Fellows Program in Marine Conservation. 
